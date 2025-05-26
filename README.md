@@ -1,2 +1,0 @@
-# BlitzPDBT
-Página BlitzPDBT
